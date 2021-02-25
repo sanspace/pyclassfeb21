@@ -1,0 +1,9 @@
+orders, shopping cart, customers, items, search
+
+===
+returns - 
+payments - UPI, Netbanking, VISA, CC, Wallet, Gift Card, Coupon, promo
+orders - creating order, updating orders
+shoppingcart - create a cart, add item, update item
+items - get details of an item (pic, reviews, price, discount offers)
+search - accepts keywords, returns results
